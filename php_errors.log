@@ -1,0 +1,4 @@
+[07-Feb-2023 11:48:32 Asia/Kolkata] PHP Notice:  Undefined variable: empid in /home/elrafact/domains/elrafact.com/public_html/hrm/hrm/detailview.php on line 60
+[07-Feb-2023 11:48:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/elrafact/domains/elrafact.com/public_html/hrm/hrm/employeeadd.php on line 36
+[07-Feb-2023 11:48:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/elrafact/domains/elrafact.com/public_html/hrm/hrm/employeeadd.php on line 37
+[07-Feb-2023 11:48:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/elrafact/domains/elrafact.com/public_html/hrm/hrm/employeeadd.php on line 38
